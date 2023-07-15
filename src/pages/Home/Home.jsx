@@ -16,9 +16,8 @@ const Home = () => {
         <S.Title>Welcome!</S.Title>
       )}
       <S.Text>
-        Discover a world of contacts at your fingertips with our intuitive
-        phonebook. Find businesses, services, and friends effortlessly. Simplify
-        your search today!
+        This contact book will help you save the phone numbers of everyone you
+        need
       </S.Text>
     </S.Section>
   );
